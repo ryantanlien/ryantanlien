@@ -1,7 +1,7 @@
-<h2 style="text-align: center;"> Hey there! I'm Ryan </h2>
+<h2 align="center"> Hey there! I'm Ryan </h2>
 Welcome to my Github Profile! I am a final year Computer Science major at the National University of Singapore (NUS). I am an aspiring Software Engineer with a penchant for scalable, reliable software, be it on the desktop or the web.
 
-<h3 style = "text-align: center;"> My Professional Experience </h3>
+<h3 align="center"> My Professional Experience </h3>
 I am currently interning at Ascenda Loyalty, a company that delivers customer loyalty software to it's clients. as part of the Loyalty Data team. 
 
 At Ascenda, I:
@@ -20,7 +20,7 @@ For the short 6 months I was at Ascenda I have:
 - Added 3 backend APIs and 2 backend features
 - Added 3 frontend features
 
-<h3 style = "text-align: center;"> My GitHub Statistics </h3>
+<h3 align="center"> My GitHub Statistics </h3>
 
 | Contribution Streak  	| Overall Stats  	|
 |:-:	|:-:	|
