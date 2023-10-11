@@ -2,8 +2,9 @@
 Welcome to my Github Profile! I am a final year Computer Science major at the National University of Singapore (NUS). I am an aspiring Software Engineer with a penchant for scalable, reliable software, be it on the desktop or the web.
 
 <h3 style = "text-align: center;"> My Professional Experience </h3>
-I am currently interning at Ascenda Loyalty, a company that delivers customer loyalty software to it's clients. as part of the Loyalty Data team. At Ascenda, I:
+I am currently interning at Ascenda Loyalty, a company that delivers customer loyalty software to it's clients. as part of the Loyalty Data team. 
 
+At Ascenda, I:
 - Commit production level Ruby code with 90% code coverage.
 - Develop and maintain a large volume parallel data processing backend microservice known as Loyalty Engine.
 - Engineered APIs that expose business rules for points accumulation
