@@ -1,4 +1,5 @@
-<h2 align="center"> Hey there! I'm Ryan </h2>
+![github-header-image (6)](https://github.com/ryantanlien/ryantanlien/assets/57865809/ad93d316-5f1f-4a94-b322-f2de69c5ed42)
+
 Welcome to my Github Profile! I am a final year Computer Science major at the National University of Singapore (NUS). I am an aspiring Software Engineer with a penchant for scalable, reliable software, be it on the desktop or the web.
 
 <h3 align="center"> My Professional Experience </h3>
