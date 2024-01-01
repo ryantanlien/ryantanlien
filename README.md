@@ -8,8 +8,6 @@ At Ascenda Loyalty as a Software Engineer Intern, I:
 - Commit production level Ruby code with 90% code coverage.
 - Develop and maintain a large volume parallel data processing backend microservice known as Loyalty Engine.
 
-I have also previously worked at Defence Science Technology Agency as Full-Stack Developer Intern.
-
 At DSTA as a Fullstack Software Developer Intern, I:
 - Architected an application to control self-patrolling drones with Java and Spring Boot.
 - You can find my work showcased in this [repository](https://github.com/ryantanlien/gcs-app)
