@@ -18,13 +18,6 @@ At DSTA as a Fullstack Software Developer Intern, I:
 - Frontend: React, JavaFX, Angular
 - Backend: Spring Boot, Node.js
 - Cloud: Google Cloud, AWS 
-
-<h3 align="center"> My GitHub Statistics </h3>
-
-| Contribution Streak  	| Overall Stats (Public Repos) 	|
-|:-:	|:-:	|
-|<br> [![GitHub Streak](https://streak-stats.demolab.com/?user=ryantanlien&theme=dark)](https://git.io/streak-stats)|  <br> [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryantanlien&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 	|
-
 <!--
 **ryantanlien/ryantanlien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
